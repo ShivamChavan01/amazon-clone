@@ -22,7 +22,9 @@
     width: 100%;
     object-fit: contain;
     margin-bottom: 15px;
+
     margin-top: 15px;
+
   }
   
   .product > button {
@@ -34,10 +36,17 @@
   }
   
   .product_price {
+
     margin-top: 15px;
+
+    margin-top: 5px;
+
   }
   
   .product_info {
     height: 100px;
     margin: 15px;
+
+    margin-bottom: 15px;
+
   }

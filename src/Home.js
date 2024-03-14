@@ -39,7 +39,17 @@ function Home() {
         </div>
 
         <div className="home-row">
+
           
+
+          <Product
+            id="878885"
+            title=" The Art of a Beautiful Game: The Thinking Fan's Tour of the NBA "
+            price={17.96}
+            rating={5}
+            image="https://m.media-amazon.com/images/I/61-yru2GGBS._SL1360_.jpg"
+          />
+
 
           <Product
             id="4858585"
