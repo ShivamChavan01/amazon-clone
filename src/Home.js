@@ -51,7 +51,7 @@ function Home() {
           <Product
             id="5485875"
             title=" Random Girl "
-            price={69.42}
+            price={420.69}
             rating={6}
             image="https://m.media-amazon.com/images/I/61JqPW+sMAL._SL1360_.jpg"
           />
